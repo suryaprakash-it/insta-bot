@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazhBookingBot.Domain", "YazhBookingBot.Domain\YazhBookingBot.Domain.csproj", "{20DDA701-9CD1-4B69-BFA3-8212A2662900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazhBookingBot.Application", "YazhBookingBot.Application\YazhBookingBot.Application.csproj", "{20DDA701-9CD1-4B69-BFA3-8212A2662901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazhBookingBot.Infrastructure", "YazhBookingBot.Infrastructure\YazhBookingBot.Infrastructure.csproj", "{20DDA701-9CD1-4B69-BFA3-8212A2662902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazhBookingBot.Api", "YazhBookingBot.Api\YazhBookingBot.Api.csproj", "{20DDA701-9CD1-4B69-BFA3-8212A2662903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazhBookingBot.Tests", "YazhBookingBot.Tests\YazhBookingBot.Tests.csproj", "{20DDA701-9CD1-4B69-BFA3-8212A2662904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20DDA701-9CD1-4B69-BFA3-8212A2662900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA701-9CD1-4B69-BFA3-8212A2662904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
