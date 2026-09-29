@@ -1,0 +1,9 @@
+.git
+.dotnet-home
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/.angular
+**/TestResults
+.env

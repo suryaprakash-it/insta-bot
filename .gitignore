@@ -1,0 +1,12 @@
+.dotnet-home/.dotnet/
+.dotnet-home/nuget/
+.dotnet-home/tools/
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.angular/
+**/TestResults/
+.env
+*.user
+*.suo
